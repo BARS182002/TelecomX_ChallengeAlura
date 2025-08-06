@@ -84,17 +84,17 @@ Domiciliado/Transferencia: BAJA cancelación
 ## 📈 **VISUALIZACIONES**
 
 ### Gráfico 1: Distribución General del Churn
-![Distribución de Cancelaciones](TelecomX_ChallengeAlura/Graficos/grafico_cancelaciones.png)
+![Distribución de Cancelaciones](Graficos/grafico_cancelaciones.png)
 
 *Descripción: Gráfico de barras que muestra la distribución general de clientes activos, cancelados y con situación desconocida.*
 
 ### Gráfico 2: Análisis por Categorías
-![Análisis por Variables Demográficas](TelecomX_ChallengeAlura/Graficos/grafico_categorias.png)
+![Análisis por Categoria](Graficos/grafico_categorias.png)
 
 *Descripción: Panel de 6 subgráficos que muestran las tasas de cancelación por género, edad, estado civil, dependientes, método de pago y tipo de contrato.*
 
 ### Gráfico 3: Análisis Datos Numéricos
-![Análisis de Pago Total y Tiempo de Contrato](TelecomX_ChallengeAlura/Graficos/grafico_numericos.png)
+![Análisis de Pago Total y Tiempo de Contrato](Graficos/grafico_numericos.png)
 
 *Descripción: Diagramas de caja (boxplots) que comparan la distribución de pagos totales y tiempo de contrato entre clientes activos y cancelados.*
 
